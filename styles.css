@@ -1,0 +1,60 @@
+h1{
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+strong{
+    color: #2493df;
+}
+label{
+    font-size: 16px;
+    font-weight: bold;
+}
+footer{
+    color: #595959;
+    font-size: 14px;
+    text-align: center;
+}
+/*
+clase
+.text-blue{
+    color:blue;
+    font-size: 44px;
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+    text-transform:uppercase;
+    uppercase: Pone un texto en mayusculas.
+    lowercase: Pone un texto en minusculas.
+    capitaliza: Pone la primer letra de todas las palabras en mayusculas.
+}
+
+    text-decoration: underline;
+    none: elimina cualquier decoracion
+    underline: subraya el texto
+    overline: le da al texto una sobre linea
+    line-through: pone un tachado sobre el texto
+
+    sombra de texto
+    h1{
+        text-shadow: 3px 2px 3px red;
+    }
+
+    text-alignment
+    h1{
+        text-align: center;
+    }
+    left, right, center, justify
+
+    line height
+    .intro{
+        line-height: 1.8;
+    }
+
+    espaciado de letras y palabras
+    letter-spacing: 3px;
+    word-spacing: 3px;
+
+body{
+    background-color:blueviolet;
+}
+*/
