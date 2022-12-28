@@ -3,6 +3,9 @@ h1{
     letter-spacing: 2px;
     margin: 10px 0px 10px 0px;
 }
+body{
+    background-color: #e0e0e0;
+}
 strong{
     color: #2493df;
 }
@@ -18,6 +21,12 @@ footer{
 }
 section{
     padding: 10px 10px 10px 10px;
+    background-color: white;
+}
+#buy{
+    background-color: #687373;
+    margin-top: 10px;
+    color: #fcfcfc;
 }
 /*
 clase
